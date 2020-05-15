@@ -1,7 +1,7 @@
 /*-----background-----*/
 
 .charsheet {
-    background-image: url("https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/Sports%20Brawl%20by%20Lost%20West%20Media/Images/ControllerSB1.jpg");
+    background-image: url("https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/Sports%20Brawl%20by%20Lost%20West%20Media/Images/SBController2020.jpg");
     background-size: 100%;
     background-attachment: scroll;
     min-height: 100%;
@@ -344,7 +344,7 @@ input.sheet-arrow:checked ~ div.sheet-body {
 .sheet-rolltemplate-sbmain table {
     width: 200px;
     padding: 2px;
-	background:url (https://i.imgur.com/jQNHRSb.jpg);
+	background:url (https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/Sports%20Brawl%20by%20Lost%20West%20Media/Images/Scoreboard.jpg);
 	background-size: 200px;
     background-repeat: no-repeat;
 	font-family: "Andale Mono", AndaleMono, monospace;
@@ -391,7 +391,7 @@ input.sheet-arrow:checked ~ div.sheet-body {
 .sheet-rolltemplate-sb table {
     width: 200px;
     padding: 2px;
-	background:url (https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/Sports%20Brawl%20by%20Lost%20West%20Media/Images/SbGSBB1.jpg);
+	background:url (https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/Sports%20Brawl%20by%20Lost%20West%20Media/Images/SbGSBB2020.jpg);
 	background-size: 200px;
     background-repeat: no-repeat;
 	font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
@@ -575,7 +575,7 @@ input.sheet-arrow:checked ~ div.sheet-body {
 .sheet-rolltemplate-sb5 table {
     width: 200px;
     padding: 2px;
-	background:url (https://i.imgur.com/RBLu7rh.jpg);
+	background:url (https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/Sports%20Brawl%20by%20Lost%20West%20Media/Images/SbPPH2020.jpg);
 	background-size: 200px;
     background-repeat: no-repeat;
 	font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
@@ -665,7 +665,7 @@ input.sheet-arrow:checked ~ div.sheet-body {
 .sheet-rolltemplate-sb7 table {
     width: 200px;
     padding: 2px;
-	background:url (https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/Sports%20Brawl%20by%20Lost%20West%20Media/Images/SbRR1.jpg);
+	background:url (https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/Sports%20Brawl%20by%20Lost%20West%20Media/Images/SbRR2020.jpg);
 	background-size: 200px;
     background-repeat: no-repeat;
 	font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
@@ -1183,15 +1183,14 @@ input.sheet-arrow:checked ~ div.sheet-body {
 }
 .sheet-rolltemplate-score table {
     width: 150px;
-    padding: 2px;
-	background:url (https://i.imgur.com/Ll18XuB.gif);
+	background:url (https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/Sports%20Brawl%20by%20Lost%20West%20Media/Images/LWMgif5.gif);
 	background-size: 150px;
     background-repeat: no-repeat;
-	font-family: "Andale Mono", AndaleMono, monospace;
+	font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
 	min-height: 150px;
 }
 .sheet-rolltemplate-score th {
-    color: #c2c200;
+    color: white;
     padding-left: 1px;
     line-height: 1.2em;
     font-size: 1.2em;
@@ -1203,11 +1202,10 @@ input.sheet-arrow:checked ~ div.sheet-body {
 
 .sheet-rolltemplate-score td {
     text-align: center;
-	color: #9e0b0f;
-	line-height: 2em;
+	color: white;
+	line-height: 1.2em;
 	font-size: 1.2em;
-	padding-left: 5px;
-	padding-bottom: 35px;
+	padding-top:70px;
 }
 
 .sheet-rolltemplate-score .inlinerollresult  {
@@ -1231,7 +1229,7 @@ input.sheet-arrow:checked ~ div.sheet-body {
 }
 .sheet-rolltemplate-item table {
     width: 150px;
-	background:url (https://i.imgur.com/Ll18XuB.gif);
+	background:url (https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/Sports%20Brawl%20by%20Lost%20West%20Media/Images/LWMgif5.gif);
 	background-size: 150px;
     background-repeat: no-repeat;
 	font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
